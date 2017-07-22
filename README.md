@@ -4,7 +4,7 @@
 ## 開発環境
 - Language: C#
 - OS: Windows7 Proffesional
-- IDE: Visual Studio 2012 express
+- IDE: Microsoft Visual Studio 2012 Express
 
 ## スクリーンショット
 ![Screen shot](http://i.imgur.com/iTLWser.png)
